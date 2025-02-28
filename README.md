@@ -15,7 +15,7 @@
    
    点击下面的链接直接在Overleaf中打开模板：
    
-   ![Open in Overleaf](https://www.overleaf.com/read/jsqgyhxqxsyg#938afd)
+   [![Open in Overleaf](https://img.shields.io/badge/open%20in-Overleaf-46a247.svg)](https://www.overleaf.com/read/jsqgyhxqxsyg)
 
 ## 使用说明
 
